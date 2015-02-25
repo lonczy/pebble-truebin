@@ -1,0 +1,28 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lonczy",
+    "longName": "Real Binary Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/real_binary_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "real_binary",
+    "uuid": "ee938f3e-bfd4-4b0d-b77e-dc34d9be8cf3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
